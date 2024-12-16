@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/duong/Documents/GitHub/FIT3097 (Tech Art)/A1-DannyDuong/FIT3097_A1/Content/Blueprints/BP_Skull.uasset",
+				"C:/Users/duong/Documents/GitHub/FIT3097 (Tech Art)/A1-DannyDuong/FIT3097_A1/Content/Materials/MaterialInstances/MI_Grass.uasset",
+				"C:/Users/duong/Documents/GitHub/FIT3097 (Tech Art)/A1-DannyDuong/FIT3097_A1/Content/Materials/MaterialInstances/MI_GiantSkull.uasset",
+				"C:/Users/duong/Documents/GitHub/FIT3097 (Tech Art)/A1-DannyDuong/FIT3097_A1/Content/TEX_DesertEnvironment.uasset",
+				"C:/Users/duong/Documents/GitHub/FIT3097 (Tech Art)/A1-DannyDuong/FIT3097_A1/Content/DesertEnvironment.uasset",
+				"C:/Users/duong/Documents/GitHub/FIT3097 (Tech Art)/A1-DannyDuong/FIT3097_A1/Content/DesertEnvironment_Tex.uasset",
+				"C:/Users/duong/Documents/GitHub/FIT3097 (Tech Art)/A1-DannyDuong/FIT3097_A1/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/MG/80C743D6748NYSVHJ3ZK1Q.uasset"
+			]
+		}
+	]
+}
